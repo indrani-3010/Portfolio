@@ -1,0 +1,20 @@
+.displayProjectDetails{
+    outline: none;
+    border: none;
+    border-radius: 0px;
+}
+
+.staticText{
+    width: 100%;
+    height: auto;
+}
+
+.languagesUsed{
+    width: 50%;
+    height: auto;
+    border-radius: 100%;
+}
+
+.linkText{
+    color: white;
+}
